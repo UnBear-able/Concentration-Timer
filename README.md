@@ -39,7 +39,7 @@ C:\Users\사용자명\AppData\Roaming\NungTimer
 ───────────────────────────────
 - Directed by 눙곰
 - (with AI-assisted development by ChatGPT)
-- GitHub 링크: https://github.com/your-repo (← 원하면 수정)
+- GitHub 링크: (https://github.com/UnBear-able/Concentration-Timer)
 
 이 프로그램은 챗GPT를 사용하여 작성 했습니다
 
